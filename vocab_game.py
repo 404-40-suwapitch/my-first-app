@@ -101,6 +101,6 @@ if st.session_state.get("is_ended", False):
     show_result_dialog(ans1, ans2)
 
 st.divider()
-  st.write("นายสุวพิชญ์ กลิ่นจันทร์ เลขที่40 ม.4/4")
+st.write("นายสุวพิชญ์ กลิ่นจันทร์ เลขที่40 ม.4/4")
 
 
